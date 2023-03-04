@@ -1,0 +1,9 @@
+server:
+  db: sqlite
+  port: 9000
+  logger:
+    # 日志等级, trace, debug, info, warn, error, fatal
+    level: debug
+    path: ./data/log
+sqlite:
+  file: './data/sqlite/go-terminal.db'
