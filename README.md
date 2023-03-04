@@ -1,1 +1,1 @@
-# go-termminal
+# go-terminal
